@@ -3,7 +3,7 @@ CSE-6363-001-MACHINE LEARNING: Final Project: Clustering on the UCI seed dataset
 
 Problem Statement: Implement Hierarchical Clustering on the UCI seed dataset to divide it in groups and use the cluser IDs as labels for a subsequent K nearest neighbor classifier to identify the species. You should use multiple clusterings here and have to determine what a good number of clusters would be and how to determine the similarity between clusters and a data point.
 
-Hierarchical Clustering for Seed Categorization Project:
+Hierarchical Clustering for Seed Categorization Project:  
 
 1. Dataset: The dataset used in this study is publicly available on the UCI website 
 (http://archive.ics.uci.edu/ml/datasets/seeds)
