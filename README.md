@@ -5,7 +5,7 @@ Problem Statement: Implement Hierarchical Clustering on the UCI seed dataset to 
 
 Hierarchical Clustering for Seed Categorization Project:  
 
-1. Dataset: The dataset used in this study is publicly available on the UCI website 
+1. Dataset: The dataset used in this study is publicly available on the UCI website  
 (http://archive.ics.uci.edu/ml/datasets/seeds)
 
 
