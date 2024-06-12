@@ -8,6 +8,7 @@ Hierarchical Clustering for Seed Categorization Project:
 1. Dataset: The dataset used in this study is publicly available on the UCI website 
 (http://archive.ics.uci.edu/ml/datasets/seeds)
 
+
 3. I have downloaded the dataset from the above link and divided the dataset into training and test 
 dataset in 70:30 ration respectively.
 * The training dataset is in the file seeddataset.csv.
